@@ -14,7 +14,7 @@
 
 > Check out the sample output of the project below and also to check on web click on below link.
 
-- > [Click Me](https://beautiful-conkies-659fac.netlify.app)
+- > [Click Me](https://dynamic-raindrop-f26fad.netlify.app/)
 
 - > Sample output
 
