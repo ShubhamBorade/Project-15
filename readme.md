@@ -1,8 +1,8 @@
-# My 15th Project
+# Product Design Landing Page
 
-> i have learnt basics of HTML and CSS in this project.
+> I have learnt basics of HTML and CSS in this project.
 
-> it took me around 1 and half hours to complete this project.
+> It took me around 6 hours to complete this project.
 
 ### Tools Used:
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./15.PNG)
+![Product Design LandingPage](https://user-images.githubusercontent.com/67215417/202188485-ff672520-5510-4a97-81aa-abca77f12231.png)
